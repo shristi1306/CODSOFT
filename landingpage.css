@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    background: #4a90e2;
+    color: white;
+    padding: 60px 20px;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: white;
+    color: #4a90e2;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about {
+    padding: 40px 20px;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px 20px;
+}
+
+.box {
+    background: #f4f4f4;
+    padding: 20px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+footer {
+    background: #222;
+    color: white;
+    padding: 15px;
+}
